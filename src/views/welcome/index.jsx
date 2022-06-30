@@ -1,3 +1,4 @@
+import React from 'react'
 import ViteImg from '../../components/assets/image/vite.png'
 import './index.css'
 
